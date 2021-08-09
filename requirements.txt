@@ -21,7 +21,7 @@ pyflakes==2.0.0
 PyHamcrest==1.9.0
 pylama==7.6.6
 pyOpenSSL==19.0.0
-pywin32==224
+pywin32==301
 queuelib==1.5.0
 Scrapy==1.5.2
 selenium==3.141.0
